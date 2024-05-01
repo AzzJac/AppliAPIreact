@@ -1,3 +1,6 @@
+# Découverte de React
+Petite application qui récupère une API d'une liste de Robot et qui l'affiche sur un site pour offrir une expérience utilisateur fluide et dynamique.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
